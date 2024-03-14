@@ -1,2 +1,2 @@
-print("Hello World")
-print("Second Line")
+Side1=input("Enter Side1 Length")
+
